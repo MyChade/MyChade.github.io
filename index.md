@@ -1,6 +1,6 @@
 hello, i make things
 
-i'm using this site to host some game builds i'm working on
+i'm using this site to host some games i'm working on
 
 only one is loaded so far, and it's a work in progress build of "Hello, are you there?" (WebGL - Modern Web Browser)
 
