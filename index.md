@@ -8,7 +8,7 @@ only one is loaded so far, and it's a work in progress build of "Hello, are you 
 
 loaded builds:
 
-["Hello, are you there" most recent development build. (Stops working at Act 5)](https://mychade.github.io/hello/index.html)
+["Hello, are you there" most recent development build. (Stops working at Act 5, will finish Act 5 later)](https://mychade.github.io/hello/index.html)
 
 ---
 
