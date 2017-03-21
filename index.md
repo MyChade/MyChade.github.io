@@ -2,8 +2,8 @@ hello, i make things
 
 i'm using this site to host some game builds i'm working on
 
-only one is loaded so far, and it's a compiled WebGL build of a work in progress game called "Hello, are you there?"
+only one is loaded so far, and it's a work in progress build of "Hello, are you there?" (WebGL - Modern Web Browser)
 
 loaded builds:
 
-["Hello, are you there" most recent published development build. (Stops working at Act 5)](https://mychade.github.io/hello/index.html)
+["Hello, are you there" most recent development build. (Stops working at Act 5)](https://mychade.github.io/hello/index.html)
