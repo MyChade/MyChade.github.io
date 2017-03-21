@@ -6,4 +6,4 @@ only one is loaded so far, and it's a compiled WebGL build of a work in progress
 
 loaded builds:
 
-["Hello, are you there" most recent published development build. Not complete.](https://mychade.github.io/hello/index.html)
+["Hello, are you there" most recent published development build. (Stops working at Act 5)](https://mychade.github.io/hello/index.html)
